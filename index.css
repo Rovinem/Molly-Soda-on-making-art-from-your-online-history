@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'arialbold_italic';
-    src: url('fonts/arial_bold_italic-webfont.woff2') format('woff2'),
-         url('fonts/arial_bold_italic-webfont.woff') format('woff');
+    src: url('Fonts/arial_bold_italic-webfont.woff2') format('woff2'),
+         url('Fonts/arial_bold_italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -12,8 +12,8 @@
 
 @font-face {
     font-family: 'arialbold';
-    src: url('fonts/arial_bold-webfont.woff2') format('woff2'),
-         url('fonts/arial_bold-webfont.woff') format('woff');
+    src: url('Fonts/arial_bold-webfont.woff2') format('woff2'),
+         url('Fonts/arial_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -24,8 +24,8 @@
 
 @font-face {
     font-family: 'arialitalic';
-    src: url('fonts/arial_italic-webfont.woff2') format('woff2'),
-         url('fonts/arial_italic-webfont.woff') format('woff');
+    src: url('Fonts/arial_italic-webfont.woff2') format('woff2'),
+         url('Fonts/arial_italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'arialregular';
-    src: url('fonts/arial-webfont.woff2') format('woff2'),
-         url('fonts/arial-webfont.woff') format('woff');
+    src: url('Fonts/arial-webfont.woff2') format('woff2'),
+         url('Fonts/arial-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
